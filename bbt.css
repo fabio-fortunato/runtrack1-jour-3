@@ -1,0 +1,60 @@
+.body1
+{
+	background-color: lightblue;
+}
+.body1 a:hover
+{
+	color: red;
+}
+
+.book
+{
+	font-size: 100px;
+	background-color: blue;
+	border-radius: 50px 50px;
+	width: 50%;
+
+
+}
+.team 
+{
+	justify-content: left;
+	padding: left;
+
+}
+
+.team1
+{
+	text-align: right;
+	padding: right;
+	margin-top: -550px;
+	text-decoration: none;
+}
+p
+{
+    font-family:  Arial Black;
+
+}
+
+	
+}
+h1{
+	text-shadow: 4px 4px 5px black;
+}
+h2{
+	text-align: center;
+	font-size: 50px;
+	text-decoration: underline;
+}
+
+.hi 
+{
+	display: flex;
+	margin: 0 auto;
+	border-radius: 8em;
+	width: 40%;
+	height: 40%;
+}
+
+
+
